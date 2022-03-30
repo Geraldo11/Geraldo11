@@ -1,7 +1,7 @@
 ## Olá, eu sou o  Geraldo 🚀
 
 
-👨‍🎓 Sou estudante Java pela Alura e pelo Bootcamp da Digital Innovation One.
+👨‍🎓 Sou estudante de desenvolvimento Web e banco de dados pelo curso de formação da Digital House.
 
 ⚽ Nas horas vagas gosto de jogar bola com meus amigos.
 
