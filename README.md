@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Geraldo 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-Em%20formação-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Desenvolvedor%20Python-Em%20formação-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-Digital%20House-orange?style=for-the-badge">
 </p>
 
