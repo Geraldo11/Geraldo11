@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Desenvolvimento Web** e **Banco de Dados** pela [Digital House](https://www.digitalhouse.com/br).  
+Sou estudante de **Desenvolvimento Python** e **Banco de Dados** pela [Digital House](https://www.digitalhouse.com/br).  
 Apaixonado por tecnologia, aprendizado contínuo e desafios que envolvem lógica e criatividade.
 
 Nas horas vagas, gosto de ⚽ jogar bola com meus amigos e explorar novas ideias de projetos.
